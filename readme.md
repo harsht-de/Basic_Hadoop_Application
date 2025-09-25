@@ -1,4 +1,4 @@
-## Cleveland Disease Dataset - Hadoop MapReduce Flow
+## Cleveland Disease Data - **_BASIC_** Hadoop MapReduce Flow
 
 ## Project Overview
 This basic flow was created to understand practical implementation of Hadoop and its Components (HDFS, YARN, MapReduce).
