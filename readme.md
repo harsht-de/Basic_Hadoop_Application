@@ -34,6 +34,12 @@ We use a subset of the **Heart Disease dataset** with the following attributes:
 
 
 **JOB Execution LOGS in CLUSTER MANAGER**
+_Yarn UI_
 <img width="1894" height="832" alt="Screenshot 2025-09-25 182519" src="https://github.com/user-attachments/assets/e0576cc2-80d1-438e-bbe4-1e802807b176" />
 
 
+
+
+**HDFS File Structure _(input, output, tmp)_**
+_HDFS UI_
+<img width="1496" height="763" alt="Screenshot 2025-09-25 182602" src="https://github.com/user-attachments/assets/2b795b03-028f-4b90-bf03-880515bf7991" />
