@@ -31,3 +31,9 @@ We use a subset of the **Heart Disease dataset** with the following attributes:
 | num         | Heart disease diagnosis (0 = no disease, 1-3 = severity) |
 
 ---
+
+
+**JOB Execution LOGS in CLUSTER MANAGER**
+<img width="1894" height="832" alt="Screenshot 2025-09-25 182519" src="https://github.com/user-attachments/assets/e0576cc2-80d1-438e-bbe4-1e802807b176" />
+
+
